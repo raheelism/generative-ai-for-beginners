@@ -14,7 +14,7 @@
 
 [![](https://dcbadge.vercel.app/api/server/ByRwuEEgH4)](https://aka.ms/genai-discord?WT.mc_id=academic-105485-koreyst)
 
-# Generative AI for Beginners (Version 2) - A Course
+# [Generative AI for Beginners (Version 2) - A Course](https://microsoft.github.io/generative-ai-for-beginners/#/)
 
 Learn the fundamentals of building Generative AI applications with our 18-lesson comprehensive course by Microsoft Cloud Advocates.
 
